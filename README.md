@@ -27,4 +27,4 @@ A lightweight C++ command-line application that simulates how real-world databas
 Clone the project
 
 ```bash
-  git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+  git clone [https://github.com/batyr1432/pet1.git](https://github.com/batyr1432/pet1.git)
